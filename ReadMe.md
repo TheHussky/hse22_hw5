@@ -14,7 +14,7 @@
 1. Получена count-матрица
 2. Произведена нормализация данных
 3. Построен heatmap-график для экспрессии маркерных генов:
-![Heatmap](images/heatmap.pmg "Heatmap")
+![Heatmap](images/heatmap.png "Heatmap")
 4. Построена визуализация данных на основе umap и pca:
 ![pca](images/pca.png "pca")
 ![umap](images/umap.png "umap")
